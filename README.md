@@ -49,4 +49,4 @@ Key Learning Outcomes
 
 
 Status
-Developed as part of the Programming Elements for Electrical Engineering course at the American University in Cairo (AUC)
+Developed as part of the Programming Elements for Electrical Engineering course at the American University in Cairo (AUC) with sensor-based real-time control
